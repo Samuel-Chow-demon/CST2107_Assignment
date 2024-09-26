@@ -1,0 +1,8 @@
+#id-main-app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width : 100wh;
+  height : 100vh;
+}
